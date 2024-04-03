@@ -23,8 +23,8 @@
 }
 
 .controllers-button.like > button:hover {
-  color: #219653;
+  transform: scale(1.15);
 }
 .controllers-button.dislike > button:hover {
-  color: #eb5757;
+  transform: scale(1.15);
 }
